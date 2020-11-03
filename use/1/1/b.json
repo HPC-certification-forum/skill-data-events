@@ -1,14 +1,25 @@
 [
   {
-    "language" : "english",
-    "title" : "interesting course",
+    "identifier" : "e1",
+    "name" : "interesting course",
+    "description" : "description",
+    "inLanguage" : "english",
+    "location" : {
+      "PostalAddress" : {
+        "addressCountry" : "",
+        "addressRegion" : "",
+        "postalCode" : "",
+        "streetAddress" : ""
+      },
+      "VirtualLocation" : {
+        "name" : "Zoom",
+        "url" : "https://"
+      }
+    },
+    "maximumAttendeeCapacity" : 30,
     "url" : "https://xx",
-    "date" : "2020-11-03"
-  },
-  {
-    "language" : "German",
-    "title" : "Toller Kurs",
-    "url" : "https://xx",
-    "date" : "2020-11-03"
+    "datePublished" : "2020-10-03",
+    "startDate" : "2020-11-03T10:20:00",
+    "endDate"   : "2020-11-03T12:20:00"
   }
 ]
