@@ -3,8 +3,9 @@
     "identifier" : "e1",
     "name" : "interesting course",
     "description" : "description",
-    "inLanguage" : "english",
+    "inLanguage" : "en",
     "location" : {
+      "url" : "http://",
       "PostalAddress" : {
         "addressCountry" : "",
         "addressRegion" : "",
